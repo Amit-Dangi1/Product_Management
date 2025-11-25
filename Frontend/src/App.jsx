@@ -42,31 +42,5 @@ function App() {
 
 export default App
 
-{/* 
-        <Route path="/product/:id" element={<ProductDetails />} /> */}
-
-// import ProductList from "./pages/ProductList";
-// import ProductDetails from "./pages/ProductDetails";
-// import CreateProduct from "./pages/CreateProduct";
-// import EditProduct from "./pages/EditProduct";
-// import Login from "./pages/Login";
-// import ProtectedRoute from "./routes/ProtectedRoute";
-//        <Route path="/productlist" element={<ProductList />} />
-
-/* <Route 
-          path="/create" 
-          element={
-            <ProtectedRoute>
-              <CreateProduct />
-            </ProtectedRoute>
-          } 
-        />
-
-        <Route 
-          path="/edit/:id" 
-          element={
-            <ProtectedRoute>
-              <EditProduct />
-            </ProtectedRoute>
-          } 
-        />*/
+ 
+         
